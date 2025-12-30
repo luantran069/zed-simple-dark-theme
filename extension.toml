@@ -1,0 +1,7 @@
+id = "tokyo-night"
+name = "Simple Dark Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["ssaunderss <austinsaunders@me.com>"]
+description = "Simple Dark Theme"
+repository = "https://github.com/ssaunderss/zed-simple-dark-theme"
