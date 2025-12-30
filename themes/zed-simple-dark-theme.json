@@ -4,7 +4,7 @@
   "author": "Luan Tran",
   "themes": [
     {
-      "name": "Dark",
+      "name": "Simple Dark Theme",
       "appearance": "dark",
       "style": {
         "background": "#222",
